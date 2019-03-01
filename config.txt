@@ -1,0 +1,6 @@
+owner=490404894071717930
+prefix=A
+game=Alpha 
+stayinchannel=true
+songinstatus=false
+token=NTA2OTU5MDYzNzI5MzA3Njc4.D1tLwQ.w06msXIprNCULxgqoVl-i1HCPAk
